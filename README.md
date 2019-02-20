@@ -1,6 +1,6 @@
 Project Manager Case Study Build Notes:
 
-Application Structure: Parent maven project(project-aggregator) with two dependent modules - For building and packaging both service and ui into a jar
+Application Structure: Parent maven project(FSD_FINAL_REPO) with two dependent modules - For building and packaging both service and ui into a jar
 
 project-service-api - Maven Spring boot project for exposing rest endpoints + MySql project-service-ui - Angular CLI for building UI and connects with rest endpoints exposed
 
